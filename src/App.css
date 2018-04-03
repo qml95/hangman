@@ -1,0 +1,16 @@
+.letter {
+  margin-right: 5px
+}
+.word {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.touch {
+  font-size: 20px;
+  width: 30px;
+  margin-right: 10px;
+}
+.keyboard {
+  text-align: center;
+}
